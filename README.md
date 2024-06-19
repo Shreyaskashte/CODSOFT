@@ -26,3 +26,11 @@ The Titanic Survival Prediction project uses the Titanic dataset to predict the 
 
 ### Dataset
 The dataset for this project is the Titanic dataset from Kaggle. It includes information on 891 passengers.
+
+
+## Iris Flower Classification
+### Overview
+The Iris Flower Classification project classifies iris flowers into three species: Setosa, Versicolor, and Virginica. This classic dataset is widely used in pattern recognition literature and provides a great introduction to machine learning classification problems.
+
+### Dataset
+The dataset used is the famous Iris dataset, which contains 150 observations of iris flowers.
